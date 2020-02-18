@@ -8,7 +8,7 @@ end
 
 def long_planeteer_calls(calls)
   calls.each do
-    if calls.length > 4
+    if (calls.length > 4)
       false
     else
       true
