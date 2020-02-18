@@ -13,8 +13,8 @@ def long_planeteer_calls(calls)
       true
     else
       false
-      i += 1
     end
+    i += 1
   end
 end
 
